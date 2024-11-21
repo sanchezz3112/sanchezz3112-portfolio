@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+
+header {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+}
+
+.h1_cabecera {
+    text-align: center;
+    
+}
+
+
+.h2_cabecera {
+    text-align: left;
+    color: gray;
+}
+
+.h1_3cabecera {
+    text-align: left;
+}
+
+.div_1{
+    text-align: left;
+}
+
+.div_2 {
+    text-align: left;
+}
+
+.div_3 {
+    text-align: left;
+}
+
+
+.p1 {
+    text-align:right
+}
+
+.p2 {
+
+}
+
+.p3 {
+    text-align: left;
+}
+
+.button:hover {
+   color: red;
+}
